@@ -1,1 +1,1 @@
-The file in this repository contains analytic code corresponding to the manuscript, "Social determinants of health and risk-adjusted sepsis mortality in the nationwide Veterans Affairs healthcare system", accepted for publication in *Journal of General Internal Medicine*.
+The file in this repository contains analytic code corresponding to the manuscript, "Social determinants of health and risk-adjusted sepsis mortality in the nationwide Veterans Affairs healthcare system", which has been accepted for publication in *Journal of General Internal Medicine*.
